@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-1",
+        "Name": "Point Breeze No. 1 Tank Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19383962751627,
+          39.91667047548673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-2",
+        "Name": "Point Breeze Processing Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19904461003279,
+          39.91646164808221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-3",
+        "Name": "Point Breeze Impoundment Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2020882330407,
+          39.908643681849995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-4",
+        "Name": "No. 4 Tank Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19688638832119,
+          39.90963405742409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-5",
+        "Name": "Girard Point South Tank Field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20436169240361,
+          39.89852264587267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-6",
+        "Name": "Girard Point Chemicals Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20872068734117,
+          39.902393799958396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-7",
+        "Name": "Girard Point Fuels Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20901539796002,
+          39.907192888392956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-8",
+        "Name": "North Yard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20218523792977,
+          39.92605205336696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-9",
+        "Name": "Schuylkill River Tank Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2208648788609,
+          39.899883218522604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "AOI_ID": "AOI-10",
+        "Name": "West yard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2074059375481,
+          39.91679404413996
+        ]
+      }
+    }
+  ]
+}
